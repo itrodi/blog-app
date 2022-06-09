@@ -1,4 +1,4 @@
 
 
-export default async function handler {
+export default async function handler () {
 }
